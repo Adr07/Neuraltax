@@ -1,0 +1,165 @@
+:root { 
+  --x002: #f2f2f2;
+  --x003: #d4d4d4;
+  --x006: #000000;
+  --x007: #1c2c3c;
+  --x008: #688071;
+  --x009: #abc2b3;
+  --x010: #ddefe7;
+  --x021: #9dd3af;
+  --x022: #07183d;
+ 
+  --font-size-24px: 24px;
+  --font-size-l: 28px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 14px;
+  --font-size-xxxs: 12px;
+  --font-size-xxxxs: 10px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-screen-eb {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.inter-screen-eb-s {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-24px);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.inter-header-sb {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.inter-header-b {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.inter-header-eb {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.inter-header-eb-s {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.inter-subtitle-sb {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.inter-subtitle-b {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.inter-subtitle-em {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-14 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-12 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-16 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-14-sm {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-12-sm {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-16-b {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.inter-paragraf-14-b {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.inner-tex-sb-08 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.inter-tex-b-08 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}

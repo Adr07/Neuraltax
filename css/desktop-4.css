@@ -1,0 +1,554 @@
+/* screen - desktop-4 */
+
+.desktop-4 {
+  align-items: center;
+  background: linear-gradient(179deg, rgba(236, 242, 240, 1) 0%, rgba(204, 231, 212, 1) 72%);
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  height: 1299px;
+  position: relative;
+}
+
+.desktop-4 .frame-16 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13px;
+  width: 100%;
+}
+
+.desktop-4 .neuraltax-videoframe {
+  align-self: stretch;
+  background-image: url(../img/nuraltax-final-mp4-20250802-124117-382-1-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 309.9px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-4 .frame-4 {
+  align-items: center;
+  align-self: stretch;
+  gap: 17px;
+  height: 40px;
+  justify-content: flex-end;
+  padding: 46px 83px;
+  width: 100%;
+}
+
+.desktop-4 .get-movil {
+  background-image: url(../img/vector@2x.png);
+  background-size: 100% 100%;
+  height: 28px;
+  margin-bottom: -40.00px;
+  margin-top: -40.00px;
+  position: relative;
+  width: 133px;
+}
+
+.desktop-4 .group-4 {
+  display: flex;
+  gap: 7.7px;
+  height: 13px;
+  margin-bottom: -0.22px;
+  margin-right: -0.35px;
+  margin-top: -0.22px;
+  position: relative;
+  width: 108.73px;
+}
+
+.desktop-4 .vector {
+  height: 10px;
+  margin-top: 1.3px;
+  width: 9px;
+}
+
+.desktop-4 .get-free-estimate {
+  color: var(--x010);
+  font-weight: 600;
+  height: 13px;
+  line-height: 14.0px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.desktop-4 .responsive-movil {
+  align-items: center;
+  background-color: var(--x009);
+  border-radius: 5px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 26px;
+  justify-content: center;
+  margin-bottom: -39.00px;
+  margin-top: -39.00px;
+  padding: 10px;
+  position: relative;
+}
+
+.desktop-4 .primary-button {
+  color: var(--x007);
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: -5.50px;
+  margin-top: -7.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .text-columns {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 14px 85px;
+  justify-content: flex-end;
+  padding: 19px 32px 19px 50px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-4 .why-neuraltax-text {
+  color: var(--x007);
+  flex: 1;
+  font-weight: 400;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.desktop-4 .span-1 {
+  line-height: 22.4px;
+}
+
+.desktop-4 .smart-automation-text {
+  color: var(--x007);
+  font-weight: 400;
+  line-height: 28px;
+  position: relative;
+  text-align: right;
+  width: 385px;
+}
+
+.desktop-4 .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--x022);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 59px 59px;
+  height: 485px;
+  justify-content: center;
+  margin-bottom: -23.90px;
+  padding: 23px 97px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-4 .frame-16-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 45px 45px;
+  height: 124px;
+  justify-content: center;
+  position: relative;
+}
+
+.desktop-4 .log-olic {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 110px;
+  justify-content: center;
+  position: relative;
+  width: 244px;
+}
+
+.desktop-4 .logo {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 78px;
+  position: relative;
+  width: 173px;
+}
+
+.desktop-4 .neuraltax-withe-1 {
+  height: 30px;
+  position: relative;
+  width: 149px;
+}
+
+.desktop-4 .licencia {
+  align-items: center;
+  background-color: var(--x008);
+  border: 0.5px solid;
+  border-color: var(--x010);
+  border-radius: 5px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 3px;
+  padding: 1px 3px;
+  position: relative;
+  width: 125px;
+}
+
+.desktop-4 .bussnesreg-1 {
+  background-image: url(../img/vector-2@2x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  position: relative;
+  width: 11px;
+}
+
+.desktop-4 .frame-32 {
+  align-items: flex-start;
+  flex-direction: column;
+  width: 102px;
+}
+
+.desktop-4 .business-registration {
+  align-self: stretch;
+  color: var(--x010);
+  font-weight: 400;
+  height: 13px;
+  line-height: 14.0px;
+}
+
+.desktop-4 .price {
+  align-self: stretch;
+  color: var(--x010);
+  font-weight: 800;
+  line-height: normal;
+  position: relative;
+}
+
+.desktop-4 .textocontac {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 97px;
+  justify-content: center;
+  margin-bottom: -128.00px;
+  position: relative;
+  width: 244px;
+}
+
+.desktop-4 .contac {
+  align-items: center;
+  background-color: var(--x008);
+  border: 0.5px solid;
+  border-color: var(--x003);
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  padding: 0px 8px;
+  position: relative;
+  width: 173px;
+}
+
+.desktop-4 .mark_email_unread {
+  height: 15px;
+  position: relative;
+  width: 16px;
+}
+
+.desktop-4 .icon {
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.desktop-4 .frame-31 {
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: -69.00px;
+  width: 204px;
+}
+
+.desktop-4 .contac-information {
+  color: var(--x010);
+  font-weight: 600;
+  height: 14px;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.desktop-4 .emailnuraltaxaigmailcom {
+  color: var(--x010);
+  font-weight: 400;
+  line-height: 14.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .textocontac-item {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  padding: 0px 6px;
+  position: relative;
+  width: 233px;
+}
+
+.desktop-4 .union {
+  height: 14.5px;
+  position: relative;
+  width: 14.5px;
+}
+
+.desktop-4 .frame-31-1 {
+  margin-right: -3.50px;
+}
+
+.desktop-4 .business-hours {
+  color: var(--x021);
+  font-weight: 600;
+  height: 14px;
+  line-height: 16.8px;
+  width: 192px;
+}
+
+.desktop-4 .monday-friday-9-am-5-pm {
+  color: var(--x009);
+  font-weight: 400;
+  line-height: 14.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .mark_email_unread-1 {
+  height: 24px;
+  margin-right: -33.50px;
+  position: relative;
+  width: 24px;
+}
+
+.desktop-4 .rayo {
+  background-image: url(../img/vector-3@2x.png);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  width: 16px;
+}
+
+.desktop-4 .frame-31-2 {
+  margin-right: -5.00px;
+}
+
+.desktop-4 .response-time {
+  color: var(--x021);
+  font-weight: 400;
+  height: 15px;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.desktop-4 .within-24-hours {
+  color: var(--x009);
+  font-weight: 400;
+  line-height: 14.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .mediafaqs {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 122px;
+  justify-content: center;
+  margin-bottom: -295.00px;
+  position: relative;
+  width: 244px;
+}
+
+.desktop-4 .socialmedia {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.desktop-4 .facebook {
+  background-image: url(../img/vector-4@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  position: relative;
+  width: 19px;
+}
+
+.desktop-4 .youtube {
+  background-image: url(../img/vector-5@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  position: relative;
+  width: 24px;
+}
+
+.desktop-4 .instagram {
+  background-image: url(../img/vector-6@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  position: relative;
+  width: 19px;
+}
+
+.desktop-4 .linkeding {
+  background-image: url(../img/vector-7@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  position: relative;
+  width: 19px;
+}
+
+.desktop-4 .x {
+  background-image: url(../img/vector-8@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  position: relative;
+  width: 19px;
+}
+
+.desktop-4 .wathsapp {
+  background-image: url(../img/vector-9@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  position: relative;
+  width: 19px;
+}
+
+.desktop-4 .quiclinks {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 84px;
+}
+
+.desktop-4 .quick-links {
+  align-self: stretch;
+  color: var(--x021);
+  font-weight: 400;
+  line-height: 14.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.desktop-4 .frame-34 {
+  align-items: flex-end;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-4 .primary-botton-default-default {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 15px;
+  display: flex;
+  gap: 10px;
+  height: 13px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-4 .primary-button-1 {
+  color: var(--x021);
+  font-weight: 700;
+  line-height: 14.0px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-4 .primary-botton-default-default-1 {
+  align-items: center;
+  border-radius: 15px;
+  display: inline-flex;
+  gap: 10px;
+  height: 13px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.desktop-4 .about-us {
+  color: var(--x021);
+  font-weight: 700;
+  line-height: 14.0px;
+  position: relative;
+  text-decoration: underline;
+  width: 55px;
+}
+
+.desktop-4 .faq {
+  color: var(--x021);
+  font-weight: 700;
+  line-height: 14.0px;
+  position: relative;
+  text-decoration: underline;
+  width: 29px;
+}
+
+.desktop-4 .business {
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.desktop-4 .frame {
+  display: flex;
+  position: relative;
+}
+
+.desktop-4 .frame-31-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 204px;
+}

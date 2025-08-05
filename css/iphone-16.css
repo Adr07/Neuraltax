@@ -1,0 +1,270 @@
+/* screen - iphone-16 */
+
+.iphone-16 {
+  align-items: center;
+  background: linear-gradient(179deg, rgba(236, 242, 240, 1) 0%, rgba(204, 231, 212, 1) 72%);
+  display: flex;
+  flex-direction: column;
+  height: 852px;
+  width: 393px;
+}
+
+.iphone-16 .overlap-group2 {
+  height: 270px;
+  position: relative;
+  width: 393px;
+}
+
+.iphone-16 .mobileheader {
+  align-items: center;
+  background-color: var(--x007);
+  display: flex;
+  height: 56px;
+  justify-content: space-between;
+  left: 0;
+  padding: 10px 30px;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.iphone-16 .neuraltax-withe-1 {
+  height: 22px;
+  position: relative;
+  width: 105px;
+}
+
+.iphone-16 .union {
+  height: 14px;
+  position: relative;
+  width: 19px;
+}
+
+.iphone-16 .nuraltax-final-1-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 222px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 393px;
+}
+
+.iphone-16 .nuraltax-final-1-1 {
+  align-self: stretch;
+  height: 222.15px;
+  margin-bottom: -0.08px;
+  margin-top: -0.08px;
+  position: relative;
+  width: 100%;
+}
+
+.iphone-16 .frame-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 5px;
+  justify-content: center;
+  margin-left: 6.0px;
+  margin-top: 25px;
+  position: relative;
+}
+
+.iphone-16 .get-movil {
+  height: 28px;
+  position: relative;
+  width: 133px;
+}
+
+.iphone-16 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/vector-45.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  min-width: 134px;
+  padding: 7.6px 10.1px;
+}
+
+.iphone-16 .group-4 {
+  height: 13px;
+  position: relative;
+  width: 109px;
+}
+
+.iphone-16 .vector {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.iphone-16 .get-free-estimate {
+  color: var(--x002);
+  font-weight: 600;
+  left: 17px;
+  line-height: 14.0px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.iphone-16 .responsive-movil {
+  align-items: center;
+  background-color: var(--x009);
+  border-radius: 5px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 26px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.iphone-16 .primary-button {
+  color: var(--x007);
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: -5.50px;
+  margin-top: -7.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16 .container {
+  align-items: flex-end;
+  display: flex;
+  height: 290px;
+  margin-top: 25px;
+  overflow: hidden;
+  overflow-y: scroll;
+  padding: 0 6.7px;
+  width: 361px;
+}
+
+.iphone-16 .overlap-group1 {
+  height: 570px;
+  margin-bottom: -279px;
+  margin-left: 6px;
+  position: relative;
+  width: 341px;
+}
+
+.iphone-16 .why-neuraltax-neura {
+  color: var(--x007);
+  font-weight: 400;
+  left: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 341px;
+}
+
+.iphone-16 .span-1 {
+  line-height: 14.0px;
+}
+
+.iphone-16 .smart-automation-fa {
+  color: var(--x007);
+  font-weight: 400;
+  left: 17px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: 317px;
+}
+
+.iphone-16 .pararedes-movil {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 42px;
+  min-height: 117px;
+  padding: 12.1px 13.2px;
+  position: absolute;
+  top: 296px;
+  width: 256px;
+}
+
+.iphone-16 .union-1 {
+  align-self: center;
+  height: 44px;
+  margin-left: 1.27px;
+  margin-top: 2px;
+  width: 36px;
+}
+
+.iphone-16 .group-16 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  min-width: 202px;
+}
+
+.iphone-16 .facebook {
+  align-self: flex-end;
+  height: 34px;
+  margin-bottom: 0.08px;
+  width: 34px;
+}
+
+.iphone-16 .instagram {
+  align-self: flex-end;
+  height: 33px;
+  width: 33px;
+}
+
+.iphone-16 .linkeding {
+  height: 37px;
+  width: 37px;
+}
+
+.iphone-16 .x {
+  height: 37px;
+  width: 37px;
+}
+
+.iphone-16 .wathsapp {
+  height: 37px;
+  width: 36px;
+}
+
+.iphone-16 .pararedes-movil-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-right: 7.43px;
+  margin-top: 63px;
+  min-height: 114px;
+  padding: 9.1px 6.6px;
+  width: 250px;
+}
+
+.iphone-16 .union-2 {
+  align-self: center;
+  height: 43px;
+  margin-left: 1.24px;
+  margin-top: 5px;
+  width: 35px;
+}
+
+.iphone-16 .linkeding-1 {
+  height: 37px;
+  width: 37px;
+}
+
+.iphone-16 .x-1 {
+  height: 37px;
+  width: 37px;
+}
